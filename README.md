@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash Chandra</h1>
 <h3 align="center">A passionate Software Developer Engineer from India</h3>
-<img src="https://www.freepik.com/free-vector/cute-astronaut-working-laptop-cartoon-vector-icon-illustration-science-technology-icon-isolated_25528616.htm" alt="">
+<img src="https://media.giphy.com/media/K5kfQExKk731k/giphy.gif" alt="">
 - 🌱 I’m currently learning **DSA , C++ ,**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aakash-chandra-kommanapalli-7a666531b/](https://www.linkedin.com/in/aakash-chandra-kommanapalli-7a666531b/)
