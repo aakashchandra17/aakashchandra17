@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aakash Chandra</h1>
 <h3 align="center">A passionate Software Developer Engineer from India</h3>
-<img src="https://media.giphy.com/media/K5kfQExKk731k/giphy.gif" alt="">
+<img src="https://giphy.com/gifs/tqi-it-MBVRgrfOBPeH5zNWJU" alt="">
 - 🌱 I’m currently learning **DSA , C++ ,**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/aakash-chandra-kommanapalli-7a666531b/](https://www.linkedin.com/in/aakash-chandra-kommanapalli-7a666531b/)
